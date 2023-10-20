@@ -1,1 +1,4 @@
-site_name: MXy Docs
+site_name: MXy2.1 Docs
+
+theme:
+  name: material
